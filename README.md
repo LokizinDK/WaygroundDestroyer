@@ -1,2 +1,2 @@
-# 🌿 Khanware
-### The most advanced Khan Academy cheat.
+# 🤖 WaygrounDestroyerIA
+### The most advanced Wayground cheat.
